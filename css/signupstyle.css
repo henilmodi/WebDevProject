@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.center {
+  width: 50%;
+  margin: auto !important;
+}
+
+h2 {
+  width: 50%;
+  margin: auto !important;
+  padding: 1rem 0.5rem;
+  /* font-size: 3rem;
+  font-weight: bold; */
+}
+
+.row {
+  margin-bottom: 1.5rem;
+  --bs-gutter-y: 0;
+  display: flex;
+  flex-wrap: wrap;
+  /* margin-top: calc(var(--bs-gutter-y) * -1);
+  margin-right: calc(var(--bs-gutter-x) * -0.5);
+  margin-left: calc(var(--bs-gutter-x) * -0.5); */
+}

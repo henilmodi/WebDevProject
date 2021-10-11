@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.nav_main {
+  position: fixed;
+  background-color: #fff;
+  /* z-index: 100; */
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+/* nav {
+  background-color: white;
+  width: 100%;
+  position: fixed;
+  display: flex;
+  justify-content: space-between;
+} */
+
+html {
+  scroll-behavior: smooth;
+}
+
+.footer-sub {
+  display: flex;
+  justify-content: space-between;
+}
+
+.city {
+  border: 1px solid rgba(156, 163, 175, 0.5);
+  border-radius: 10px;
+  padding: 8px;
+  outline-offset: 1px;
+  outline-color: rgba(156, 163, 175, 0.7);
+}
