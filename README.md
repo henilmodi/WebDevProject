@@ -1,5 +1,5 @@
 # WebDevProject
-This is a Web Development Course Project built using 
+This is a Web Development Course Project.
 <h1>Tech Stack Used: </h1>
 1. HTML <br> 
 2. CSS <br>
