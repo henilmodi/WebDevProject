@@ -85,7 +85,7 @@
 
           <button
             class="inline-flex text-white items-center bg-blue-500 border-0 py-1 px-3 focus:outline-none rounded text-base mt-4 md:mt-0 h-10"><a
-              href="../">Sign up</a>
+              href="../php/signup.php">Sign up</a>
           </button>
         </div>
       </div>
