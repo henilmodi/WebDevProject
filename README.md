@@ -21,6 +21,6 @@ This is a Web Development Course Project.
 
 <h1>Database Configuration</h1>
 1. Open PHPMyAdmin<br>
-2. Create Database "signup"<br>
-3. Create Table "login"<br>
+2. Create Database "login"<br>
+3. Create Table "signup"<br>
 4. Inside login table create 7 columns name as FirstName, LastName, Email, password, CPassword, PhoneNo, City(Should contain the same name as mentioned) and make <b>Email as Primary Key.</b>
